@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Developers Life</string>
+    <string name="headerText">Random</string>
+    <string name="backText">back</string>
+    <string name="nextText">next</string>
+    <string name="gif_image_view">Gif Image VIew</string>
+    <string name="description">Description</string>
+</resources>
